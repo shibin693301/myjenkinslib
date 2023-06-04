@@ -1,0 +1,2 @@
+# myjenkinslib
+share library
